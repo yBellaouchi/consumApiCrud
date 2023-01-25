@@ -1,0 +1,21 @@
+{
+
+    "commandes":[
+
+        {
+
+            "id":1,
+            "name":"ama",
+            "poids":"1/2KG",
+            "prix":"120DH"
+        },
+        
+        {
+
+            "id":2,
+            "name":"moh",
+            "poids":"12KG",
+            "prix":"130DH"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "commandes": [
+    {
+      "id": 1,
+      "name": "product",
+      "poids": "1/2KG",
+      "prix": "20"
+    },
+    {
+      "id": 2,
+      "name": "product",
+      "poids": "1/2KG",
+      "prix": "10"
+    }
+  ]
+}
