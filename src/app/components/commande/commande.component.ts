@@ -37,13 +37,13 @@ this.myVar.getAll()
 //DELETE
 deleteCommande(id:any){
 
-this.myVar.delete(id)
-.subscribe(()=>{
-  this.myArray = this.myArray.filter
-  ( myVariable => myVariable.id != id)
+// this.myVar.delete(id)
+// .subscribe(()=>{
+//   this.myArray = this.myArray.filter
+//   ( myVariable => myVariable.id != id)
 
 
-})
+// })
 
 }
 //POST

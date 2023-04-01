@@ -6,7 +6,7 @@ import { MyInterface } from '../models/my-interface';
   providedIn: 'root'
 })
 export class CommandeService {
-urlapi='http://localhost:42400/commandes';
+urlapi='http://localhost:3000/commandes';
   constructor(private http : HttpClient) { }
 //GET
   getAll(){ 
